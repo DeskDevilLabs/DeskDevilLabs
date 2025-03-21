@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theoneGHOST47
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning something.
-- ⚡ Fun fact: nothing
+- ⚡ Fun fact: Want to learn everything.
 
 <!---
 theoneGHOST47/theoneGHOST47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
