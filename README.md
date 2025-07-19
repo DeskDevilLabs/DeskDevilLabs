@@ -2,7 +2,7 @@
 <h3 align="center">Tech Geek • Medical Student • Creative Coder • Music Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Visitors&color=0e75b6&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=DeskDevilLabs&label=Visitors&color=0e75b6&style=flat" alt="visitor badge" />
 </p>
 
 ---
