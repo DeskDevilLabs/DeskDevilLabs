@@ -27,7 +27,7 @@ Current Focus:    Full-stack development, music streaming tech
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeskDevilLabs&show_icons=true&theme=react&hide_border=true" width="48%" height="40%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeskDevilLabs&theme=react&hide_border=true" width="48%" height="40%"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeskDevilLabs&show_icons=true&theme=react&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeskDevilLabs&theme=react&hide_border=true" width="48%"/> </p>
 
 📫 Let’s Connect
 
