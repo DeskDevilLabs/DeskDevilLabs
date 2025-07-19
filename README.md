@@ -48,7 +48,7 @@ Exploring innovative solutions at the intersection of tech and healthcare.
 
 ---
 
-<a href="https://github.com/skyv26">
+<a href="https://github.com/DeskDevilLabs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeskDevilLabs&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 <br />
