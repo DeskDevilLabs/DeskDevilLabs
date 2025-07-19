@@ -1,7 +1,13 @@
+## 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![Pygame](https://img.shields.io/badge/Pygame-FFDF00?logo=pygame)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+
 # <h1 align="center">👋 Hey, I'm Aryan Bhatt</h1>
 ## <h2 align="center">Tech Geek • Medical Student • Creative Coder • Music Enthusiast</h2>
 
-## <h3 align="center">CLone <br> Add <br> Commit <br> Push</h3>
+## <h3 align="center">Cl
+one <br> Add <br> Commit <br> Push</h3>
 
 ---
 
