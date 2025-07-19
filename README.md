@@ -14,7 +14,7 @@
 🔒 Cybersecurity curious — always exploring system internals  
 
 ## 📌 Featured Projects
-<details> <summary>🎮 <strong>Python Arcade Bundle</strong></summary> <ul> <li>Includes Space Invaders, Brick Breaker, and a full arcade menu</li> <li>Uses Pygame with full scorekeeping and UI</li> </ul> </details> <details> <summary>🧰 <strong>Student Desktop Tools</strong></summary> <ul> <li>Typing speed tester, digital wallet, login system, report card generator</li> <li>Built using Tkinter for lightweight GUI</li> </ul> </details>
+<details> <summary>🎮 <strong>Python Arcade Bundle</strong></summary> <ul> <li>Includes Space Invaders, Brick Breaker, and a full arcade menu</li> <li>Uses Pygame with full scorekeeping and UI</li> </ul> </details>
 
 ## 📊 GitHub Stats
 
