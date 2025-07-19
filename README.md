@@ -9,7 +9,6 @@
 
 ## 👑 About Me
 
-```yaml
 👨‍⚕️ Medical student passionate about tech, innovation, and creative coding  
 
 🎮 Game dev enthusiast (check out my arcade bundle!)
