@@ -53,6 +53,14 @@ Here’s a more professional and visually appealing version of the Tech Stack se
 
 ---
 
+<a href="https://github.com/skyv26">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeskDevilLabs&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+</a>
+<br />
+<br />
+
+---
+
 **Current Focus:**  
 Exploring innovative solutions at the intersection of tech and healthcare.
 
