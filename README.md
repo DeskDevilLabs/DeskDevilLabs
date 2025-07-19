@@ -18,7 +18,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeskDevilLabs&show_icons=true&theme=react&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeskDevilLabs&theme=react&hide_border=true" width="48%"/> </p>
+<a href="https://github.com/skyv26">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeskDevilLabs&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+</a>
+<a href="https://github.com/skyv26">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeskDevilLabs&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+</a>
 
 ## 📫 Let’s Connect
 
