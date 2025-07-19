@@ -16,7 +16,7 @@
 🔒 Cybersecurity curious — always exploring system internals  
 
 
-🚀 Tech Stack
+# 🚀 Tech Stack
 Languages:        Python, JavaScript, Dart, HTML/CSS
 Frameworks/Tools: Flutter, Firebase, Pygame, Node.js
 Tech Interests:   Cybersecurity, AI, Automation, Game Dev, UI/UX
