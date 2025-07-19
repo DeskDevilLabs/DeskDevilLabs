@@ -25,21 +25,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeskDevilLabs&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 
-## 📫 Let’s Connect
-
-Have ideas, feedback, or just want to geek out over tech?
-I’m always open to collaboration, discussion, and learning.
-
-## 📬 Email itsaryanbhatt@gmail.com
-
-
-Thanks for dropping by! 
-Consider leaving a ⭐ on a repo if you find something interesting!
-
-
-
-Here’s a more professional and visually appealing version of the Tech Stack section you can use in your README.md. This version uses Markdown tables and clear categorization to enhance readability and presentation.
-
 ---
 
 ## 🚀 Tech Stack
@@ -58,6 +43,19 @@ Here’s a more professional and visually appealing version of the Tech Stack se
 </a>
 <br />
 <br />
+
+---
+
+## 📫 Let’s Connect
+
+Have ideas, feedback, or just want to geek out over tech?
+I’m always open to collaboration, discussion, and learning.
+
+## 📬 Email itsaryanbhatt@gmail.com
+
+
+Thanks for dropping by! 
+Consider leaving a ⭐ on a repo if you find something interesting!
 
 ---
 
