@@ -1,3 +1,5 @@
+
+
 # <h1 align="center">👋 Hey, I'm Aryan Bhatt</h1>
 ## <h2 align="center">Tech Geek • Medical Student • Creative Coder • Music Enthusiast</h2>
 
@@ -12,6 +14,13 @@
 🎮 Game dev enthusiast (check out my arcade bundle!)
  
 🔒 Cybersecurity curious — always exploring system internals  
+
+---
+
+**Current Focus:**  
+Exploring innovative solutions at the intersection of tech and healthcare.
+
+---
 
 ## 📌 Featured Projects
 <details> <summary>🎮 <strong>Python Arcade Bundle</strong></summary> <ul> <li>Includes Space Invaders, Brick Breaker, and a full arcade menu</li> <li>Uses Pygame with full scorekeeping and UI</li> </ul> </details>
@@ -57,10 +66,6 @@ I’m always open to collaboration, discussion, and learning.
 Thanks for dropping by! 
 Consider leaving a ⭐ on a repo if you find something interesting!
 
----
-
-**Current Focus:**  
-Exploring innovative solutions at the intersection of tech and healthcare.
 
 ---
 
