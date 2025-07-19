@@ -34,7 +34,7 @@ Current Focus:    Full-stack development, music streaming tech
 Have ideas, feedback, or just want to geek out over tech?
 I’m always open to collaboration, discussion, and learning.
 
-## 📬 Email: itsaryanbhatt@gmail.com
+## 📬 Email itsaryanbhatt@gmail.com
 
 
 Thanks for dropping by! 
