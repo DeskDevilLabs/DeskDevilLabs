@@ -7,16 +7,15 @@
 
 ---
 
-## ![ChessPawnGIF](https://github.com/user-attachments/assets/ae6c8578-b9c4-4a0b-862f-d5b006b191b0)
-🧠 About Me
+## 👑 About Me
 
 ```yaml
 👨‍⚕️ Medical student passionate about tech, innovation, and creative coding  
-💡 Self-taught in Python, Flutter, and web technologies  
-🎧 Building CORTEX-Music — a Spotify-style ad-free streaming app  
-🎮 Game dev enthusiast (check out my arcade bundle!)  
+
+🎮 Game dev enthusiast (check out my arcade bundle!)
+ 
 🔒 Cybersecurity curious — always exploring system internals  
-🎯 Goal: Merge healthcare and tech for a better tomorrow
+
 
 🚀 Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
