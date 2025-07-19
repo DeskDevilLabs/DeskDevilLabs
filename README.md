@@ -54,5 +54,5 @@ Exploring innovative solutions at the intersection of tech and healthcare.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeskDevilLabs&label=Visitors&color=0e75b6&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=DeskDevilLabs&label=Visitors&color=0e75b6&style=flat" alt="visitor badge" width="300" />
 </p>
