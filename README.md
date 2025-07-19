@@ -7,7 +7,8 @@
 
 ---
 
-## 🧠 About Me
+## ![ChessPawnGIF](https://github.com/user-attachments/assets/ae6c8578-b9c4-4a0b-862f-d5b006b191b0)
+🧠 About Me
 
 ```yaml
 👨‍⚕️ Medical student passionate about tech, innovation, and creative coding  
