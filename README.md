@@ -29,12 +29,12 @@ Current Focus:    Full-stack development, music streaming tech
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeskDevilLabs&show_icons=true&theme=react&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeskDevilLabs&theme=react&hide_border=true" width="48%"/> </p>
 
-📫 Let’s Connect
+## 📫 Let’s Connect
 
 Have ideas, feedback, or just want to geek out over tech?
 I’m always open to collaboration, discussion, and learning.
 
-📬 Email: itsaryanbhatt@gmail.com
+@@ 📬 Email: itsaryanbhatt@gmail.com
 
 
 Thanks for dropping by! 
