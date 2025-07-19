@@ -18,7 +18,11 @@
 
 
 🚀 Tech Stack
-<p align="left"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
+Languages:        Python, JavaScript, Dart, HTML/CSS
+Frameworks/Tools: Flutter, Firebase, Pygame, Node.js
+Tech Interests:   Cybersecurity, AI, Automation, Game Dev, UI/UX
+Current Focus:    Full-stack development, music streaming tech
+
 📌 Featured Projects
 <details> <summary>🎧 <strong>CORTEX-Music</strong></summary> <ul> <li>Built with Flutter & Firebase</li> <li>Streams music from cloud & YouTube playlists</li> <li>Features: Playlists, background audio, queue, shuffle, and more</li> </ul> </details> <details> <summary>🎮 <strong>Python Arcade Bundle</strong></summary> <ul> <li>Includes Space Invaders, Brick Breaker, and a full arcade menu</li> <li>Uses Pygame with full scorekeeping and UI</li> </ul> </details> <details> <summary>🧰 <strong>Student Desktop Tools</strong></summary> <ul> <li>Typing speed tester, digital wallet, login system, report card generator</li> <li>Built using Tkinter for lightweight GUI</li> </ul> </details>
 📊 GitHub Stats
