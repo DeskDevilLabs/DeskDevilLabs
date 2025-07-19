@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Aryan Bhatt</h1>
 <br />
-<img src='./img.svg' width="100%">
+<img src='./img.svg' width="60%">
 <br />
 <h2 align="center">Tech Geek • Medical Student • Creative Coder • Music Enthusiast</h2>
 <h3 align="center">Clone <br> Add <br> Commit <br> Push</h3>
