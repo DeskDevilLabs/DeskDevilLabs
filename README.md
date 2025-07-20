@@ -4,8 +4,6 @@
 <br />
 <h2 align="center">Tech Geek • Medical Student • Creative Coder • Music Enthusiast</h2>
 
----
-
 ## 👑 About Me
 
 👨‍⚕️ Medical student passionate about tech, innovation, and creative coding  
