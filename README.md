@@ -23,7 +23,7 @@ Exploring innovative solutions at the intersection of tech and healthcare.
 ---
 
 ## 📌 Featured Projects
-<details> <summary>🎮 <strong>Python Arcade Bundle</strong></summary> <ul> <li>Includes Space Invaders, Brick Breaker, and a full arcade menu</li> <li>Uses Pygame with full scorekeeping and UI</li> </ul> </details>
+<details> <summary>🎮 <strong>Python Arcade Bundle</strong></summary> <ul> <li>Includes Space Invaders, Brick Breaker like retro games.</li> <li>Uses Pygame with full scorekeeping and UI</li> </ul> </details>
 
 ---
 
