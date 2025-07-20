@@ -56,7 +56,7 @@ Exploring innovative solutions at the intersection of tech and healthcare.
 
 ---
 
-## 📫 Let’s Connect
+## 📬 Get in Touch
 
 Have ideas, feedback, or just want to geek out over tech?
 I’m always open to collaboration, discussion, and learning.
