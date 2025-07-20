@@ -40,6 +40,13 @@ Exploring innovative solutions at the intersection of tech and healthcare.
 
 ## 📊 GitHub Stats
 
+<a href="https://github.com/DeskDevilLabs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeskDevilLabs&layout=compact&langs_count=9&theme=prussian&hide_border=true&text_color=ffffff" alt="Top Languages" width="500" />
+</a>
+<br />
+<br />
+
+
 <a href="https://github.com/skyv26">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeskDevilLabs&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
@@ -47,11 +54,6 @@ Exploring innovative solutions at the intersection of tech and healthcare.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeskDevilLabs&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 
-<a href="https://github.com/DeskDevilLabs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeskDevilLabs&layout=compact&langs_count=9&theme=prussian&hide_border=true&text_color=ffffff" alt="Top Languages" width="500" />
-</a>
-<br />
-<br />
 
 ---
 
