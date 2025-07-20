@@ -57,6 +57,10 @@ Exploring innovative solutions at the intersection of tech and healthcare.
 <br />
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeskDevilLabs" />
+
+
+---
 
 ## 📫 Let’s Connect
 
