@@ -46,7 +46,7 @@ Exploring innovative solutions at the intersection of tech and healthcare.
 <a href="https://github.com/DeskDevilLabs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeskDevilLabs&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
-<a href="https://github.com/skyv26">
+<a href="https://github.com/DeskDevilLabs">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeskDevilLabs&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 
