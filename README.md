@@ -16,7 +16,6 @@
  
 🔒 Cybersecurity curious — always exploring system internals  
 
----
 
 **Current Focus:**  
 Exploring innovative solutions at the intersection of tech and healthcare.
@@ -25,6 +24,8 @@ Exploring innovative solutions at the intersection of tech and healthcare.
 
 ## 📌 Featured Projects
 <details> <summary>🎮 <strong>Python Arcade Bundle</strong></summary> <ul> <li>Includes Space Invaders, Brick Breaker, and a full arcade menu</li> <li>Uses Pygame with full scorekeeping and UI</li> </ul> </details>
+
+---
 
 ## 📊 GitHub Stats
 
