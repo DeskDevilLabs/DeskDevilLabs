@@ -49,11 +49,13 @@ Exploring innovative solutions at the intersection of tech and healthcare.
 | **Areas of Interest** | Cybersecurity, Artificial Intelligence, Automation, Game Development, UI/UX Design |
 
 ---
+
 <a href="https://github.com/DeskDevilLabs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeskDevilLabs&layout=compact&langs_count=9&theme=prussian&hide_border=true&text_color=ffffff" alt="Top Languages" width="500" />
 </a>
 <br />
 <br />
+
 ---
 
 ## 📫 Let’s Connect
