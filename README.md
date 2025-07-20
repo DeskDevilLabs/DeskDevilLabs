@@ -19,11 +19,6 @@
 **Current Focus:**  
 Exploring innovative solutions at the intersection of tech and healthcare.
 
-Clone <br>
-Add <br>
-Commit <br>
-Push <br>
-
 ---
 
 ## 📌 Featured Projects
@@ -66,6 +61,11 @@ Push <br>
 
 Have ideas, feedback, or just want to geek out over tech?
 I’m always open to collaboration, discussion, and learning.
+
+Clone <br>
+Add <br>
+Commit <br>
+Push <br>
 
 ## 📬 Email itsaryanbhatt@gmail.com
 
