@@ -19,10 +19,10 @@
 **Current Focus:**  
 Exploring innovative solutions at the intersection of tech and healthcare.
 
-Clone
-Add
-Commit
-Push
+Clone <br>
+Add <br>
+Commit <br>
+Push <br>
 
 ---
 
